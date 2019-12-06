@@ -1,0 +1,48 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="69.26807"
+    android:viewportHeight="69.26807">
+  <group android:translateX="-7.6194873"
+      android:translateY="-7.6194873">
+    <group android:translateX="12.253521"
+        android:translateY="12.253521">
+      <group android:translateX="6"
+          android:translateY="6">
+        <path
+            android:pathData="M3,24c0,-11.598 9.402,-21 21,-21c11.598,0 21,9.402 21,21c0,11.598 -9.402,21 -21,21c-11.598,0 -21,-9.402 -21,-21z"
+            android:strokeLineJoin="miter"
+            android:strokeWidth="1"
+            android:fillColor="#258fdb"
+            android:fillAlpha="0"
+            android:strokeColor="#00000000"
+            android:strokeLineCap="butt"/>
+        <path
+            android:pathData="M24.2814,44.9981l-9.4087,-9.4087c-0.4455,-0.4455 -0.7209,-1.061 -0.7209,-1.7411l0,-19.6965c0,-1.3603 1.1018,-2.4621 2.4621,-2.4621l0,0l14.7724,0c0.6801,0 1.2957,0.2754 1.7411,0.7209l11.8708,11.8708c-0.1494,11.3746 -9.3421,20.5674 -20.7168,20.7168z"
+            android:strokeLineJoin="miter"
+            android:strokeWidth="1"
+            android:strokeColor="#00000000"
+            android:strokeLineCap="butt">
+          <aapt:attr name="android:fillColor">
+            <gradient 
+                android:startY="11.68966"
+                android:startX="14.15173"
+                android:endY="57.52354"
+                android:endX="55.06147"
+                android:type="linear">
+              <item android:offset="0" android:color="#59000000"/>
+              <item android:offset="1" android:color="#00000000"/>
+            </gradient>
+          </aapt:attr>
+        </path>
+        <path
+            android:pathData="M33.8483,14.1517l0,19.6965c0,1.3603 -1.1018,2.4621 -2.4621,2.4621l-14.7724,0c-1.3603,0 -2.4621,-1.1018 -2.4621,-2.4621l0,-19.6965c0,-1.3603 1.1018,-2.4621 2.4621,-2.4621l14.7724,0c1.3603,0 2.4621,1.1018 2.4621,2.4621zM16.6138,24l3.0776,-1.8465l3.0776,1.8465l0,-9.8483l-6.1552,0z"
+            android:strokeLineJoin="miter"
+            android:strokeWidth="0"
+            android:fillColor="#ffffff"
+            android:strokeLineCap="butt"/>
+      </group>
+    </group>
+  </group>
+</vector>
