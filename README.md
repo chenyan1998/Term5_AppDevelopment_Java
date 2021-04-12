@@ -10,7 +10,6 @@ LEO DING HAO 1003510
 WONG KAI KANG 1003625 
 ```
 
-![image](https://user-images.githubusercontent.com/49365834/114388544-67121400-9bc6-11eb-89c7-936fd2777176.png)
 
 Problem Framing
 Most classrooms do not have a lecture capture system. Even if it is installed, only
